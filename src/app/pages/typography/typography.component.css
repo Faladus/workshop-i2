@@ -1,0 +1,10 @@
+.place-style{
+    display: inline-block;
+    margin: auto;
+    margin-left: 0;
+}
+
+.button-style{
+    display: inline-block;
+    /*float: right;*/
+}
